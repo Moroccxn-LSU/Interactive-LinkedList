@@ -1,19 +1,6 @@
 // Adam Elkhanoufi
 // 10/13/2022
-// Prog1
 // Interactive Singly Linked List in C
-// Due: 10/20/2022
-
-/*  Tasks
-    1. Display shows only first node inserted [done]
-    2. Insert methods
-        ~ Insert node at the end [done]
-        ~ Insert node at a position [done]
-    3. Delete methods
-        ~ Delete node by value [done]
-        ~ Delete node at a position [done]
-    4. View value of node at given position [done]
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
